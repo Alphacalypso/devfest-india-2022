@@ -1,5 +1,24 @@
 [
     {
+        "City": "Trichy",
+        "CommunityName": "GDG Trichy",
+        "DevFestName": "DevFest Trichy",
+        "Days": "2",
+        "StartingDate": "2022-10-12",
+        "EndingDate": "2022-10-13",
+        "Venue": "Jamal Mohamed College",
+        "Description": "GDG Trichy is happy to conduct its first devfest in the city. Bringing together 400+ developers , creating a sustainable and viable tech environment for everyone to learn, network and grow.  ",
+        "EventLink": "https://gdg.community.dev/events/details/google-gdg-trichy-presents-devfest-trichy-2022/",
+        "CommunityPage": "https://gdg.community.dev/gdg-trichy/",
+        "Visible": "true",
+        "State": "Tamil Nadu",
+        "CFP": {
+            "Status": "0",
+            "Link": "",
+            "LastDate": ""
+        }
+    },
+    {
         "City": "Jalandhar",
         "CommunityName": "GDG Jalandhar",
         "DevFestName": "DevFest Jalandhar",
